@@ -1,0 +1,8 @@
+# Ignore database files
+*.db
+library.db
+
+# Ignore SQL files
+*.sql
+sample_data.sql
+schema.sql
